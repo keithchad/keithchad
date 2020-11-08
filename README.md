@@ -5,7 +5,7 @@
 - 📫 How to reach me: chaddev10@gmail.com
 - 😄 Pronouns: he/him
 
-<p>Hi, I'm Keith Chad. SDE at @PuStack, I love building amazing software which make an impact.
+<p>Hi, I'm Keith Chad.I love building amazing software which make an impact.
 
 <p><a href="https://www.twitter.com/keithchad6"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/keith-chad-88b01b1a7"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/keith.chad/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></p>
 
