@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on something good.
-- 🌱 I’m currently learning Android(Java & Kotlin), Flutter, React Native, Game Development, Arduino.
-- 📫 How to reach me: chaddev10@gmail.com
+- 🌱 I’m currently learning Android(Java & Kotlin), Flutter, React Native, Game Development, Arduino, Raspberry Pi.
+- 📫 How to reach me: keithchad10@outlook.com
 - 😄 Pronouns: he/him
 
 <p>Hi, I'm Keith Chad.I love building amazing software which make an impact.
