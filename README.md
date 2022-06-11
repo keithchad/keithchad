@@ -11,3 +11,7 @@
 
 <h1>GitHub Stats</h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=keithchad&amp;show_icons=true" alt="GitHub Stats"></p>
+ 
+<a href="https://github.com/keithchad/keithchad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithchad&hide=ruby,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
