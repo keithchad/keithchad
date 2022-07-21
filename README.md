@@ -12,7 +12,6 @@
 
 - 🔭 I’m currently working on something good.
 - 🌱 Learning more about Compose, Kotlin, Android and Raspberry Pi.
-- Fun fact: I'm a huge fan of Gaming
 - I'm mostly active within the Android Community
 
 
